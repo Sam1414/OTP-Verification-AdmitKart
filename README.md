@@ -1,6 +1,6 @@
 # OTP-Verification-AdmitKart
-OTP verification system using Node.js, angular js, and next.js
+OTP verification system using <b>Node.js</b>,<b> angular.js</b>, and <b> next.js</b>
 
-server.js file creates the server and listens on port provided by environment or port 4000
+<u>server.js</u> file creates the server and listens on port provided by environment or port 4000
 
-app.js file handles all the requests, working, and error handling. An app is uses to send OTP.
+<u>app.js</u> file handles all the requests, working, and error handling. An app is uses to send OTP.

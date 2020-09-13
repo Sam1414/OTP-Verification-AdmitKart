@@ -1,0 +1,30 @@
+{
+  "name": "otp-verification-1",
+  "version": "1.0.0",
+  "description": "A app to verify user through otp on mobile number.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "otp",
+    "verification",
+    "user",
+    "authentication"
+  ],
+  "author": "Samarth Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.5",
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "js-alert": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
